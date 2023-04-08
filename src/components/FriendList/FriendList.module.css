@@ -8,31 +8,3 @@
     width: 300px;
 }
 
-.status_on{
-  width: 15px;
-  height: 15px;
-  background-color: green;
-  border-radius: 50%;
-}
-.status_off{
-    width: 15px;
-    height: 15px;
-    background-color: rgb(202, 2, 2);
-    border-radius: 50%;
-}
-
-.item {
-    list-style: none;
-    margin: 0;
-    padding: 5px;
-    padding-left: 15px;
-    display: flex;
-    column-gap: 5px;
-    background-color: rgb(233, 231, 231);
-    border-radius: 5px;
-    align-items: center;
-}
-
-.item:hover{
-    transform: scale(1.1);
-}
